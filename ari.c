@@ -29,7 +29,6 @@ int word_count(string s)
 	}
 	return num_words+1;
 }
-
 int sentences_count(string s)
 {
 	int l=strlen(s);
